@@ -9,7 +9,7 @@ public class Main5 {
         int a = scn.nextInt();
         System.out.println("Please enter some value: ");
         int b = scn.nextInt();
-        // > < >= <= == true false
+        // > < >= <= == != true false
         if(a>10) {
             System.out.println("a is bigger than 10");
         }else if(a == 10){

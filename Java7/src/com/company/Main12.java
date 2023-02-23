@@ -14,8 +14,8 @@ public class Main12 {
         int[] array4 = new int[5];
         array4[0] = 10;
         array4[1] = 20;
-        array4[2] = 30;
-        array4[3] = 60;
+        array4[3] = 30;
+        array4[2] = 60;
         array4[4] = 10;
         System.out.println(Arrays.toString(array4));
     }

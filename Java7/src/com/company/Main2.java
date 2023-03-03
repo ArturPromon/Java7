@@ -10,7 +10,7 @@ public class Main2 {
         short num5 = 32000;
         long num6 = 124124124;
         String str = "Hello";
-        char sym = '*';
+        char sym = ' ';
         // true false
         boolean isTrue = true;
 

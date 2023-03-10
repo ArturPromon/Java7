@@ -10,11 +10,11 @@ public class Writer {
             if(!file.exists()) {
                 file.createNewFile();
             }
-            PrintWriter pw = new PrintWriter(file);
-            pw.println("Hello world");
-            pw.println("Artur");
-            pw.println("Happy new year!");
-            pw.close();
+//            PrintWriter pw = new PrintWriter(file);
+//            pw.println("Hello world");
+//            pw.println("Artur");
+//            pw.println("Happy new year!");
+//            pw.close();
         }catch (Exception e){
             System.out.println(e);
         }

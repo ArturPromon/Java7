@@ -7,7 +7,7 @@ public class Main33 {
         num2 = 20;
         num3 = num1 + num2;
         System.out.println(num3);
-        System.out.println(function2(10,20));
+        System.out.println(function2(num1,num2));
     }
     public static void main(String[] args) {
         function();

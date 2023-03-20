@@ -5,6 +5,7 @@ public class Main24 {
         String someString = "Happy New Year";
         char someChar = 'a';
         int count = 0;
+
         for (int i = 0; i < someString.length(); i++) {
             if (someString.charAt(i) == someChar) {
                 count++;

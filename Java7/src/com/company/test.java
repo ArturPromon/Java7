@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class test {
     public static void main(String[] args) {
-        System.out.println(2%2);
+        int[] array = {10,30,20};
+        System.out.println(array[1]);
     }
 }
